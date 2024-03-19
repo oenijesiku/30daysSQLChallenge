@@ -4,6 +4,7 @@
 - [30days SQL Challenge](#30days-sql-challenge)
 - [Links to the Datasets](#links-to-the-datasets)
 - [Tool](#tool)
+- [Questions, Queries and Outputs](#questions,-queries-outputs)
 
 ## 30days SQL Challenge
 
@@ -25,7 +26,7 @@ This challenge was organized by Techavilly to help upcoming data Analyst in thei
 ### Tool
 Mysql Server [Download here](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
-### Questions and Outputs
+### Questions, Queries and Outputs
 
 **Day 1 Question**: Using the movie Data, write a query to show the titles and movie released in 2017 whose vote count is more than 15 and runtime is more than 100.
 #### Query
