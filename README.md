@@ -7,6 +7,7 @@
 - [Questions and Queries](#questions-and-queries)
 
 ## 30days SQL Challenge
+---
 
 This challenge was organized by Techavilly to help upcoming data Analyst in their Data analytics journey. We worked with different datasets which will be shared below with their respective questions and queries.
 
