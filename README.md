@@ -4,7 +4,7 @@
 - [30days SQL Challenge](#30days-sql-challenge)
 - [Links to the Datasets](#links-to-the-datasets)
 - [Tool](#tool)
-- [Questions, Queries and Outputs](#questions-queries-outputs)
+- [Questions, Queries and Outputs](#questions,-queries-outputs)
 
 ## 30days SQL Challenge
 
