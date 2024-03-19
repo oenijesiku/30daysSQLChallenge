@@ -3,6 +3,7 @@
 ## Table of Content
 - [30days SQL Challenge](#30days-sql-challenge)
 - [Links to the Datasets](#links-to-the-datasets)
+- [Tool](#tool)
 
 ## 30days SQL Challenge
 
@@ -21,7 +22,7 @@ This challenge was organized by Techavilly to help upcoming data Analyst in thei
 - [Share Price data](https://techavilly.net/wp-content/uploads/2023/10/SharePrice-.xlsx)
 - [Employee Table](https://techavilly.net/wp-content/uploads/2023/10/Employee-Table.xlsx)
 
-### Tools
+### Tool
 Mysql Server [Download here](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
 ### Questions and Outputs
