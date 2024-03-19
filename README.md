@@ -2,7 +2,7 @@
 
 ## Table of Content
 - [30days SQL Challenge](#30days-sql-challenge)
-- [Links to the Datasets](links-to-the-datasets)
+- [Links to the Datasets](#links-to-the-datasets)
 
 ## 30days SQL Challenge
 
