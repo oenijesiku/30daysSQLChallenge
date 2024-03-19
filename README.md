@@ -1,5 +1,9 @@
 # Wunmi's portfolio
 
+## Table of Content
+- [30days SQL Challenge](#30days-sql-challenge)
+- [Links to the Datasets](links-to-the-datasets)
+
 ## 30days SQL Challenge
 
 This challenge was organized by Techavilly to help upcoming data Analyst in their Data analytics journey. We worked with different datasets which will be shared below with their respective questions and queries.
