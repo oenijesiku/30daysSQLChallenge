@@ -1,4 +1,4 @@
-# Wunmi's portfolio
+# 30 Days SQL Challenge by Techavilly
 
 ## Table of Content
 - [30days SQL Challenge](#30days-sql-challenge)
